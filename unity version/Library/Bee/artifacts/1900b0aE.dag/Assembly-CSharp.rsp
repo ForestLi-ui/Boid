@@ -328,6 +328,7 @@
 "Assets/Boids/BoidBehaviour.cs"
 "Assets/Brain/Brain.cs"
 "Assets/Camera/Rotate.cs"
+"Assets/Container/Predator.cs"
 -langversion:8.0
 
 /deterministic

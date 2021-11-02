@@ -712,16 +712,16 @@ MonoBehaviour:
   acceleration: {x: 0, y: 0, z: 0}
   velocity: {x: 0, y: 0, z: 0}
   MAX_SPEED: 10
-  MAX_ACC: 20
-  VIEW_PORTION: 4
-  OBSTACLE_VIEW_PORTION: 8
+  MAX_ACC: 10
+  VIEW_PORTION: 3
+  OBSTACLE_VIEW_PORTION: 6
   VIEW_DISTANCE: 10
-  alignment_scale: 0.6
+  alignment_scale: 1
   cohesion_scale: 0.5
   seperation_scale: 1
-  obstacle_avoidance_scale: 40
+  obstacle_avoidance_scale: 50
   num_points: 200
-  obstacle_num_points: 100
+  obstacle_num_points: 200
 --- !u!54 &6319776412522482168
 Rigidbody:
   m_ObjectHideFlags: 0
